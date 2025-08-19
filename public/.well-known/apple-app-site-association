@@ -1,7 +1,5 @@
 {
-  "applinks": {
-    "webcredentials": {
-      "apps": [ "P8P545YJ97.dev.tridentapp.Trident" ]
-    }
+  "webcredentials": {
+    "apps": [ "P8P545YJ97.dev.tridentapp.Trident" ]
   }
 }
